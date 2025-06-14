@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333070399912",
+    "project_id": "cattales-d49c1",
+    "storage_bucket": "cattales-d49c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333070399912:android:e7505ee5d68328d908459d",
+        "android_client_info": {
+          "package_name": "com.example.latihan_praktikum_7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333070399912-e49p58igq4onfgg21s1ec1e9ml87vm1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.latihan_praktikum_7",
+            "certificate_hash": "67d3c8b36712973382aa6fe9180dee43c7d3fd03"
+          }
+        },
+        {
+          "client_id": "333070399912-bocq3mgi7tf88526ud64bt9lapp37ate.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn1J-AZbPHUPKEe4JNBOKRjN0SreuHPcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333070399912-bocq3mgi7tf88526ud64bt9lapp37ate.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

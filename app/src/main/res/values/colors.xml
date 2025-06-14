@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="brown">#B3A064</color>
+    <color name="colorPrimary">#6A4C93</color> <!-- Ungu lembut, contoh -->
+    <color name="colorPrimaryDark">#5A3C7A</color>
+    <color name="colorAccent">#FFC107</color> <!-- Kuning cerah -->
+    <color name="green_200">#F2C85A</color> <!-- Example hex code for a light green -->
+    <color name="green_700">#EE8E3E</color> <!-- Example hex code for a dark green -->
+</resources>

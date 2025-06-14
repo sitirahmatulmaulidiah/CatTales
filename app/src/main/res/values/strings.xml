@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatTales</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id">333070399912-e49p58igq4onfgg21s1ec1e9ml87vm1p.apps.googleusercontent.com</string>
+    <string name="profil_avatar">Avatar Profil</string>
+
+</resources>
