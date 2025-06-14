@@ -33,19 +33,33 @@ Goyangkan ponsel Anda untuk menampilkan notifikasi berisi fakta menarik tentang 
 Berikut adalah tampilan dari aplikasi **CatTales**:
 
 ### **Halaman Login**
-![Halaman Login](images/login.png)
+<div align="left">
+  <img src="images/login.png" alt="Halaman Login" width="300" />
+</div>
 
 ### **Halaman Register**
-![Halaman Utama](images/register.png)
+<div align="left">
+  <img src="images/register.png" alt="Halaman Register" width="300" />
+</div>
 
 ### **Halaman Utama**
-![Halaman Utama](images/home.png)
+<div align="left">
+  <img src="images/home.png" alt="Halaman Utama" width="300" />
+</div>
 
 ### **Halaman Konten**
-![Halaman Konten](images/konten.png)
+<div align="left">
+  <img src="images/konten.png" alt="Halaman Konten" width="300" />
+</div>
 
 ### **Halaman Profil**
-![Halaman Profil](images/profil.png)
+<div align="left">
+  <img src="images/profil.png" alt="Halaman Profil" width="300" />
+</div>
 
 ### **Halaman Setting**
-![Halaman Setting](images/setting.png)
+<div align="left">
+  <img src="images/setting.png" alt="Halaman Setting" width="300" />
+</div>
+
+
